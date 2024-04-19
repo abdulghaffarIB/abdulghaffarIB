@@ -1,6 +1,5 @@
 ### Hi there 👋, Abdulghaffar
 #### Frontend web and Mobile app developer
-![Frontend web and Mobile app developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Abdulghaffar, a Junior Frontend and Mobile app developer based in Nigeria. Dedicated to creating intuitive user experiences and bringing ideas to life, I thrive in the dynamic world of web and mobile development.
 
@@ -16,9 +15,7 @@ I'm Abdulghaffar, a Junior Frontend and Mobile app developer based in Nigeria. D
 
 📫 Want to collaborate on a project or just chat about tech? Feel free to reach out!
 
-Skills: NEXT.JS / REACT / JS / HTML / CSS / TAILWIND
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdulghaffarIB)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdulghaffar-ibrahim/)  
